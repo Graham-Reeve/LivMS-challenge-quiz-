@@ -103,7 +103,7 @@
   function showFeedback(correct, expectedAnswer) {
     el.feedbackBox.classList.remove("hidden", "success", "error");
     el.feedbackBox.classList.add(correct ? "success" : "error");
-    el.feedbackBox.textContent = correct ? "Yes, correct." : `Sorry, no. The answer was ${expectedAnswer}.`;
+    el.feedbackBox.textContent = correct ? "Yes, correct." : `Sorry, no.`; // The answer was ${expectedAnswer}.`;
     el.nextActions.classList.remove("hidden");
     el.answerInput.disabled = true;
     state.awaitingNext = true;
