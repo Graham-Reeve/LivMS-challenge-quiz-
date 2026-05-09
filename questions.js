@@ -4,12 +4,16 @@ window.QUIZ_QUESTIONS = [
     answer: 9
   },
   {
-    prompt: "81 is 150% of which number?",
-    answer: 54
+    prompt: "Two whole numbers added together give 30. What is the largest possible value of their product? [The product of two numbers means multiply them together].",
+    answer: 225
   },
   {
-    prompt: "Two whole numbers added together give 30. What is the largest possible value of their product? The product of two numbers means multiply them together.",
-    answer: 225
+  prompt: "What is the largest possible number of regions into which a pizza can be divided by 5 straight cuts across the top?",
+  answer: 16
+  },
+  {
+  prompt: "The number 169 equals the sum of two square numbers. What is the smaller of the two square numbers?",
+  answer: 9
   },
   {
     prompt: "I drive through slow traffic at an average speed of 10 miles per hour and then the same distance at an average speed of 40 miles per hour. What is my average speed in miles per hour over the whole distance?",
@@ -23,20 +27,16 @@ window.QUIZ_QUESTIONS = [
     prompt: "A man lost one third of his money, and then won an amount equal to half of what he had left. He ended up with 123 pounds. How many pounds did he start with?",
     answer: 123
   },
+{
+  prompt: "A whole number leaves remainder 1 when divided by 2, 3, 4 and 5. What is the smallest possible value of the number?",
+  answer: 61
+}, 
   {
     prompt: "If the 1st of December falls on a Wednesday, on which day of the following January does the fourth Wednesday occur?",
     help: "Just type the number.",
     answer: 26
   },
-  {
-    prompt: "The number 25 equals the sum of two square numbers. What is the smaller of the two square numbers?",
-    answer: 9
-  },
-  {
-    prompt: "What is the units digit (rightmost digit) of 21 to the power 2024?",
-    answer: 1
-  },
-  {
+   {
     prompt: "To convert degrees Centigrade to degrees Fahrenheit, you multiply by nine, divide by five, and then add 32. What is 75 degrees Fahrenheit in Centigrade, to the nearest degree?",
     answer: 24
   },
@@ -69,8 +69,8 @@ window.QUIZ_QUESTIONS = [
     answer: 60
   },
   {
-    prompt: "What is the units digit (rightmost digit) of 2 to the power 2024?",
-    answer: 6
+    prompt: "What is the units digit (rightmost digit) of 2 to the power 2026?",
+    answer: 4
   },
   {
     prompt: "A boy scored 70, 70 and 70 in three exams. After the fourth exam his average score was 55. What was his score in the fourth exam?",
