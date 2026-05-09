@@ -1,7 +1,9 @@
 window.QUIZ_QUESTIONS = [
   {
-    prompt: "How many factors, including 1 and 100, does the number 100 have?",
-    answer: 9
+ //   prompt: "How many factors, including 1 and 100, does the number 100 have?",
+ //   answer: 9
+   prompt: "How many factors, including 1 and 100, does the number 100 have?",
+  answer: 9
   },
   {
     prompt: "Two whole numbers added together give 30. What is the largest possible value of their product? [The product of two numbers means multiply them together].",
@@ -13,7 +15,7 @@ window.QUIZ_QUESTIONS = [
   },
   {
   prompt: "The number 169 equals the sum of two square numbers. What is the smaller of the two square numbers?",
-  answer: 9
+  answer: 5
   },
   {
     prompt: "I drive through slow traffic at an average speed of 10 miles per hour and then the same distance at an average speed of 40 miles per hour. What is my average speed in miles per hour over the whole distance?",
@@ -65,8 +67,10 @@ window.QUIZ_QUESTIONS = [
     answer: 24
   },
   {
-    prompt: "The lamp posts in a road are equally spaced, and the distance between the first and the eighth is 140 metres. What is the distance between the first and the fourth lamp post in metres?",
-    answer: 60
+  //  prompt: "The lamp posts in a road are equally spaced, and the distance between the first and the eighth is 140 metres. What is the distance between the first and the fourth lamp post in metres?",
+ //   answer: 60
+ prompt: "Fence posts are equally spaced in a straight line. The distance from the first post to the seventh post is 42 metres. What is the distance from the fifth post to the tenth post?",
+ answer: 35
   },
   {
     prompt: "What is the units digit (rightmost digit) of 2 to the power 2026?",
