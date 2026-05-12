@@ -15,7 +15,7 @@ window.QUIZ_QUESTIONS = [
   },
   {
   prompt: "The number 169 equals the sum of two square numbers. What is the smaller of the two square numbers?",
-  answer: 5
+  answer: 25
   },
   {
     prompt: "I drive through slow traffic at an average speed of 10 miles per hour and then the same distance at an average speed of 40 miles per hour. What is my average speed in miles per hour over the whole distance?",
